@@ -1,3 +1,6 @@
 OS 
   -> Interface between external application or softwares and the internal resources.
   -> Responsible for memory management.
+  Absence of OS leads to : 
+    -> Non uniform distribution of system resources.
+    -> Application developers need to write the code of memory management. Leads to repetition of code and hence storage waste.
